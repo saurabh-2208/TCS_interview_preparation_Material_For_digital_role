@@ -1,0 +1,23 @@
+Difference between Sql and NoSQL
+
+1. Difference between primary key and Foregin key
+
+2 .Order by and Group by Difference 
+
+3. All Joins 
+
+4. Normalization all type 
+
+5.What is ACID properties 
+
+6. How to find the second heighest salary of the employee
+
+7. How to find the Heighest Salry in the table 
+
+8. ALL COmmands 
+
+9.All clauses 
+
+
+
+
